@@ -16,5 +16,6 @@ This repository is the entry point. It holds the positions of the theory and lin
 ## Contents
 
 - `POSITIONS.md` — the positions of the author used across the works.
+- `CITATION.cff`, `.zenodo.json` — citation and archive metadata.
 
 Prepared with the assistance of AI models (Claude, ChatGPT, DeepSeek).

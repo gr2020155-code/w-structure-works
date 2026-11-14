@@ -1,0 +1,33 @@
+{
+  "title": "The W-Structure: Positions and Works",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    {
+      "name": "Danielyan, Hrachya"
+    }
+  ],
+  "description": "<p>The W-Structure is a theory of space, time and matter built under one rule: zero contradictions. Nothing is accepted because it is customary; every statement must follow from the positions without contradiction, and measurements serve as checkpoints, not as axioms.</p><p>This record holds the 24 positions of the author used across the works (change, space and time; energy and mass; particles; gravity and black holes) and the list of works, each published separately with its own DOI: Black Holes in the W-Structure (10.5281/zenodo.24016340) and The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion (10.5281/zenodo.24220735).</p>",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "W-Structure",
+    "discrete space",
+    "foundations of physics",
+    "axioms",
+    "zero contradictions"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24016340",
+      "relation": "hasPart",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.5281/zenodo.24220735",
+      "relation": "hasPart",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "version": "1.0"
+}

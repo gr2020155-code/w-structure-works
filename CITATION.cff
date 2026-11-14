@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The W-Structure: Positions and Works"
+authors:
+  - family-names: Danielyan
+    given-names: Hrachya
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/gr2020155-code/w-structure-works"
+type: software
+keywords:
+  - W-Structure
+  - discrete space
+  - foundations of physics
