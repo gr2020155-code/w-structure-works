@@ -11,7 +11,7 @@ This repository is the entry point. It holds the positions of the theory and lin
 | Work | Repository | DOI |
 |---|---|---|
 | Black Holes in the W-Structure | [w-structure-black-holes](https://github.com/gr2020155-code/w-structure-black-holes) | [10.5281/zenodo.24016340](https://doi.org/10.5281/zenodo.24016340) |
-| The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion | [w-structure-spin-1.0](https://github.com/gr2020155-code/w-structure-spin-1.0) | [10.5281/zenodo.24220735](https://doi.org/10.5281/zenodo.24220735) |
+| The Electron in the W-Structure: Spin, Magnetic Moment, Charge and Motion | [w-structure-spin-1.0](https://github.com/gr2020155-code/w-structure-spin-1.0) | [10.5281/zenodo.24221214](https://doi.org/10.5281/zenodo.24221214) (v1.1); [10.5281/zenodo.24220735](https://doi.org/10.5281/zenodo.24220735) (v1.0) |
 
 ## Contents
 
