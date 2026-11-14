@@ -1,6 +1,6 @@
 # The W-Structure
 
-**Author:** Hrachya Danielyan · **License:** CC BY 4.0
+**Author:** Hrachya Danielyan · **License:** CC BY 4.0 · **DOI:** [10.5281/zenodo.24220842](https://doi.org/10.5281/zenodo.24220842)
 
 The W-Structure is a theory of space, time and matter built under one rule: zero contradictions. Nothing is accepted because it is customary; every statement must follow from the positions without contradiction, and measurements serve as checkpoints, not as axioms.
 
@@ -17,5 +17,9 @@ This repository is the entry point. It holds the positions of the theory and lin
 
 - `POSITIONS.md` — the positions of the author used across the works.
 - `CITATION.cff`, `.zenodo.json` — citation and archive metadata.
+
+## How to cite
+
+H. Danielyan. The W-Structure: Positions and Works. Version 1.0. Zenodo, 2026. https://doi.org/10.5281/zenodo.24220842
 
 Prepared with the assistance of AI models (Claude, ChatGPT, DeepSeek).

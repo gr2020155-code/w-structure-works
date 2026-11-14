@@ -5,6 +5,7 @@ authors:
   - family-names: Danielyan
     given-names: Hrachya
 version: "1.0"
+doi: 10.5281/zenodo.24220842
 license: CC-BY-4.0
 repository-code: "https://github.com/gr2020155-code/w-structure-works"
 type: software
